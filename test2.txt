@@ -1,2 +1,2 @@
 test  input
-汉字
+汉字不乱 非常ok
